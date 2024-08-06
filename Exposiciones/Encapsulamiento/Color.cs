@@ -8,13 +8,7 @@ namespace Encapsulamiento
 {
     public class Color
     {
-        private string nombre;
-
-        public string Nombre
-        {
-            get { return nombre; }
-            set { nombre = value; }
-        }
+        private string nombre { get; set; }
 
         //Constructor
         public Color(string nombre)
@@ -24,7 +18,7 @@ namespace Encapsulamiento
 
         public void mostrarInfo()
         {
-            Console.WriteLine($"Color: {Nombre}");
+            Console.WriteLine($"Color: {nombre}");
         }
     }
 }
