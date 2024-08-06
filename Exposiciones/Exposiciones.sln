@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaseInterface", "ClaseInterface\ClaseInterface.csproj", "{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{7C4942DE-E175-45E8-B4DC-866578682559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{7C4942DE-E175-45E8-B4DC-866578682559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{3FF3E685-42D3-45B2-A48E-493DD4B65E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{3FF3E685-42D3-45B2-A48E-493DD4B65E22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamiento", "Encapsulamiento\Encapsulamiento.csproj", "{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamiento", "Encapsulamiento\Encapsulamiento.csproj", "{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
