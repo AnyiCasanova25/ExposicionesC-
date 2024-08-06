@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}|Encapsulamiento\\Encapsulamiento.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\encapsulamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}|Encapsulamiento\\Encapsulamiento.csproj|solutionrelative:encapsulamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}|Encapsulamiento\\Encapsulamiento.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\encapsulamiento\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794F064F-7FA0-4B29-B3CE-7AA2FB7B2976}|Encapsulamiento\\Encapsulamiento.csproj|solutionrelative:encapsulamiento\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\polimorfismo\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\polimorfismo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\polimorfismo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\woman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\woman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\abstraccion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\abstraccion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\claseinterface\\claseinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|solutionrelative:claseinterface\\claseinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\herencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\herencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\claseinterface\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|solutionrelative:claseinterface\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\herencia\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403EF10D-65F2-405A-9765-90CF10E1DD4C}|Herencia\\Herencia.csproj|solutionrelative:herencia\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +78,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Woman.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Woman.cs",
-              "RelativeDocumentMoniker": "Herencia\\Woman.cs",
-              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Woman.cs",
-              "RelativeToolTip": "Herencia\\Woman.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "DocumentIndex": 2,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Encapsulamiento\\Color.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento\\Color.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Encapsulamiento\\Color.cs",
+              "RelativeToolTip": "Encapsulamiento\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:53:00.035Z",
+              "WhenOpened": "2024-08-06T16:03:57.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Encapsulamiento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Encapsulamiento\\Program.cs",
+              "RelativeToolTip": "Encapsulamiento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:53:30.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Teacher.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Teacher.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Teacher.cs",
+              "RelativeToolTip": "Polimorfismo\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:39:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Student.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Student.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Student.cs",
+              "RelativeToolTip": "Polimorfismo\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:37:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Person.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Person.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Person.cs",
+              "RelativeToolTip": "Polimorfismo\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:25:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:24:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Program.cs",
+              "RelativeToolTip": "Herencia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:06:52.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstraccion\\Cat.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Cat.cs",
+              "RelativeToolTip": "Abstraccion\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:56.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Dog.cs",
+              "RelativeDocumentMoniker": "Abstraccion\\Dog.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Dog.cs",
+              "RelativeToolTip": "Abstraccion\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:01:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Animal.cs",
+              "RelativeDocumentMoniker": "Abstraccion\\Animal.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Animal.cs",
+              "RelativeToolTip": "Abstraccion\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:54:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Abstraccion",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Abstraccion.csproj",
+              "RelativeDocumentMoniker": "Abstraccion\\Abstraccion.csproj",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Abstraccion.csproj",
+              "RelativeToolTip": "Abstraccion\\Abstraccion.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T14:51:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Herencia",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Herencia.csproj",
+              "RelativeDocumentMoniker": "Herencia\\Herencia.csproj",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Herencia.csproj",
+              "RelativeToolTip": "Herencia\\Herencia.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T14:49:19.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraccion\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Program.cs",
+              "RelativeToolTip": "Abstraccion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:51:39.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClaseInterface",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\ClaseInterface.csproj",
+              "RelativeDocumentMoniker": "ClaseInterface\\ClaseInterface.csproj",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\ClaseInterface.csproj",
+              "RelativeToolTip": "ClaseInterface\\ClaseInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T14:49:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\People.cs",
+              "RelativeDocumentMoniker": "Herencia\\People.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\People.cs",
+              "RelativeToolTip": "Herencia\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:43:22.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Clase.cs",
+              "RelativeDocumentMoniker": "ClaseInterface\\Clase.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Clase.cs",
+              "RelativeToolTip": "ClaseInterface\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:43:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Man.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Man.cs",
               "RelativeDocumentMoniker": "Herencia\\Man.cs",
@@ -52,32 +299,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T17:52:48.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "People.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\People.cs",
-              "RelativeDocumentMoniker": "Herencia\\People.cs",
-              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\People.cs",
-              "RelativeToolTip": "Herencia\\People.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:52:20.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Program.cs",
-              "RelativeDocumentMoniker": "Herencia\\Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Herencia\\Program.cs",
-              "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T17:51:52.142Z",
               "EditorCaption": ""
             }
           ]
