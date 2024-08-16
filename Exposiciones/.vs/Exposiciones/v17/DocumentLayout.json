@@ -15,16 +15,28 @@
       "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\claseinterface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|solutionrelative:claseinterface\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\claseinterface\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD7538B-9F31-4A0A-9B10-EC4B93FBC703}|ClaseInterface\\ClaseInterface.csproj|solutionrelative:claseinterface\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\polimorfismo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF3E685-42D3-45B2-A48E-493DD4B65E22}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|c:\\users\\sena\\desktop\\exposicionesc-\\exposiciones\\abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4942DE-E175-45E8-B4DC-866578682559}|Abstraccion\\Abstraccion.csproj|solutionrelative:abstraccion\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Person.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Person.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Polimorfismo\\Person.cs",
+              "RelativeToolTip": "Polimorfismo\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:50:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Interface.cs",
+              "RelativeDocumentMoniker": "ClaseInterface\\Interface.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Interface.cs",
+              "RelativeToolTip": "ClaseInterface\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:49:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Clase.cs",
+              "RelativeDocumentMoniker": "ClaseInterface\\Clase.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\ClaseInterface\\Clase.cs",
+              "RelativeToolTip": "ClaseInterface\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:49:43.836Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,9 +95,10 @@
               "RelativeDocumentMoniker": "Encapsulamiento\\Program.cs",
               "ToolTip": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Encapsulamiento\\Program.cs",
               "RelativeToolTip": "Encapsulamiento\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T17:28:51.488Z"
+              "WhenOpened": "2024-08-06T17:28:51.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,11 +123,12 @@
               "RelativeToolTip": "Abstraccion\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T17:27:01.979Z"
+              "WhenOpened": "2024-08-06T17:27:01.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Dog.cs",
               "RelativeDocumentMoniker": "Abstraccion\\Dog.cs",
@@ -87,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Cat.cs",
               "RelativeDocumentMoniker": "Abstraccion\\Cat.cs",
@@ -99,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\ExposicionesC-\\Exposiciones\\Abstraccion\\Animal.cs",
               "RelativeDocumentMoniker": "Abstraccion\\Animal.cs",
@@ -107,7 +160,8 @@
               "RelativeToolTip": "Abstraccion\\Animal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T17:26:59.718Z"
+              "WhenOpened": "2024-08-06T17:26:59.718Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\AsyncAwait\\AsyncAwait.csproj": {}
+    "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\OCP(2)\\OCP(2).csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\AsyncAwait\\AsyncAwait.csproj": {
+    "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\OCP(2)\\OCP(2).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\AsyncAwait\\AsyncAwait.csproj",
-        "projectName": "AsyncAwait",
-        "projectPath": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\AsyncAwait\\AsyncAwait.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\OCP(2)\\OCP(2).csproj",
+        "projectName": "OCP(2)",
+        "projectPath": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\OCP(2)\\OCP(2).csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\AsyncAwait\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Desktop\\C-\\C#\\PartePracticaEvaluacion\\OCP(2)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
